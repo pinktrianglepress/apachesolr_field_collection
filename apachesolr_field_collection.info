@@ -1,0 +1,6 @@
+name = Apache Solr Field Collection
+description = Allows field collections to be indexed and faceted via the entity they are attached to.
+dependencies[] = apachesolr
+dependencies[] = field_collection
+package = Search Toolkit
+core = 7.x
