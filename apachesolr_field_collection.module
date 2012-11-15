@@ -63,6 +63,7 @@ function apachesolr_field_collection_add_field_collection_fields(&$fields, $enti
       // Find the single-value version of this field, which (for many fields)
       // apachesolr_fields_default_indexing_callback() will add to the Solr
       // index.
+      $field_info = $field_info[0];
       $singular_field_info = $field_info;
       $singular_field_info['multiple'] = FALSE;
       $single_key = apachesolr_index_key($singular_field_info);
