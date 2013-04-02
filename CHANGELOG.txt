@@ -1,3 +1,6 @@
+Apache Solr Field Collection 7.x-1.x, xxxx-xx-xx
+-----------------------------
+
 Apache Solr Field Collection 7.x-1.0-alpha2, 2013-04-02
 -----------------------------
 Issue #1838854 by brianV: Fixed Current version of Apache Solr Field Collection doesn't work with current Apachesolr.
